@@ -12,7 +12,7 @@
   <properties>
     <lift.version>2.5</lift.version>
     <!-- <lift.majorMinorVersion> @see regex-property executions </lift.majorMinorVersion> -->
-    <scala.version>2.10.2</scala.version>
+    <scala.version>2.13.1</scala.version>
     <!-- <scala.majorMinorVersion> @see regex-property executions </scala.majorMinorVersion> -->
 
     <!-- Common plugin settings -->
